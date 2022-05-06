@@ -47,5 +47,5 @@ gradleBuild
 Podfile.lock
 Pods
 xcuserdata
-saved_model.*
+#saved_model.*
 /__pycache__/*
