@@ -1,6 +1,6 @@
 {
-  "name": "BirbNet-PI (speed)",
-  "description": "identify 40+ classes of birds in UAE (optimized for speed, but less accurate)",
+  "name": "MobileNetV1 image classifier",
+  "description": "Identify the most prominent object in the image from a set of 1001 categories.",
   "version": "v1",
   "subgraph_metadata": [
     {
